@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Salaam alaikum</string>
+    <string name="jooo">Salaam alaikum\n</string>
+    <string name="salaam_alaikum">Salaam alaikum</string>
+    <string name="main_menu">Main menu</string>
+    <string name="TODO" name2="Previous_page">Previous_page</string>
+    <string name="yooo" name3="">Previous_page</string>
+    <string name="Next_page" name4="">Next_page</string>
+
+</resources>
